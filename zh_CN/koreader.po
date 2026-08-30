@@ -9828,6 +9828,28 @@ msgid "Contrast"
 msgstr "对比度"
 
 #: frontend/ui/data/creoptions.lua:597
+msgid "Image Gamma"
+msgstr "图片 Gamma"
+
+#: frontend/ui/data/creoptions.lua:617
+msgid ""
+"Adjust gamma for images embedded in reflowable books. Text, page backgrounds, "
+"and the user interface are not changed."
+msgstr ""
+"调整可重排书籍内嵌图片的 Gamma。文字、页面背景和用户界面不会受到影响。"
+
+#: frontend/ui/data/creoptions.lua:621
+msgid "Image Contrast"
+msgstr "图片对比度"
+
+#: frontend/ui/data/creoptions.lua:641
+msgid ""
+"Adjust contrast for images embedded in reflowable books. Text, page "
+"backgrounds, and the user interface are not changed."
+msgstr ""
+"调整可重排书籍内嵌图片的对比度。文字、页面背景和用户界面不会受到影响。"
+
+#: frontend/ui/data/creoptions.lua:597
 msgid "Font Weight"
 msgstr "字重"
 
